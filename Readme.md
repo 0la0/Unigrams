@@ -24,5 +24,5 @@ To output to a text file:
 java Unigrams files/textInput.txt 80 > files/output.txt
 ```
 
-Here is ann example output that was built from an article about Turner!
+Here is an example output that was built from [this](http://www.theguardian.com/artanddesign/2014/sep/08/late-turner-tate-britain-review) article about JMW Turner!
 >years from silence to tate britain like glowing jellyfish his hero and mythological information making prior judgments about which works from monet to explain how the imaginations of course it breaks apart and reworked in apocalyptic frenzy wagner who wallow in 1828 and reworked in the romantic age becomes modernist critics who invented modern world art 
